@@ -19,22 +19,19 @@ This portfolio features projects where I used Python and SQL to conduct explorat
 
 Programming languages and technologies: MySQL, Python, SciPy, pandas, seaborn, plotly
 
-
-![cancer_research](https://github.com/PanosChatzi/Healthcare_and_Bioinformatics_Analyses/blob/main/cancer_research/adjusted_rate_scatter_plot.png)
+![cancer_research](images/adjusted_rate_scatter_plot.png)
 
 ## Paris Olympics Dashboard
 This project showcases a dynamic Power BI dashboard for the 2024 Paris Olympic Games. A Python script was used to download the dataset, via Kaggle's API, which was then loaded into Power BI. Data cleaning and transformation were performed within Power BI using Power Query and DAX. The dashboard includes interactive figures highlighting key metrics, such as total medals by country. The complete dashboard is available [here](https://github.com/PanosChatzi/paris_2024_olympics_dashboard).
 
 Programming languages and technologies: Python, Power BI, DAX, Power Query
 
-![page_2](https://github.com/PanosChatzi/paris_2024_olympics_dashboard/blob/main/Images/pages/page_2.png)
+![page_2](images/page_2.png)
 
 ## Paris Olympics Database
 This project involves creating a relational database in PostgreSQL using the 2024 Paris Olympics dataset within a Docker container in GitHub Codespaces. Data were downloaded from Kaggle as CSV files and imported into a PostgreSQL database. The database includes tables for athletes, medals, countries, events, and teams, enabling the tracking of athlete participation, medal distribution, and country performance. It supports CRUD operations, reporting on top-performing athletes and countries, and optimized queries using views and joins, providing a comprehensive system for analyzing Olympic data. The full code and datasets can be found [here](https://github.com/PanosChatzi/Paris_Olympics_2024_database/tree/main).
 
 Programming languages and technologies: PostgreSQL, codespaces, docker, mermaid.js
-
-![er_diagram](https://raw.githubusercontent.com/PanosChatzi/Paris_Olympics_2024_database/refs/heads/main/diagram.svg)
 
 ## Fitness Data ETL Pipeline  
 This project involved developing an ETL data pipeline to process fitness activity data from Strava and Intervals.icu using Python and SQL. Data was extracted from CSV files, and custom scripts were written to ensure data type quality and perform necessary transformations. Using SQLAlchemy, the data was then loaded into a relational database in SQL Server Management Studio (SSMS). The pipeline automated data ingestion and standardization to streamline storage and analysis. All code can be found [here](https://github.com/PanosChatzi/FitnessDatabase).
