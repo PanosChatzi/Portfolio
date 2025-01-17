@@ -1,11 +1,16 @@
 # Panagiotis Chatzinikolaou
-*Data Analytics Engineer*
+Data Analytics Engineer
 
-# Education
+## About
+I am a data-driven PhD graduate with extensive experience in statistical programming, data analysis and visualization. I use tools like R, Python, SQL, Power BI, and Tableau to uncover insights and drive decision-making. Passionate about continuous learning, I am dedicated to transforming data into actionable solutions.
+
+## Education
 * PhD in Quantitative Exercise Physiology, *Aristotle University of Thessaloniki*, 2020-2024
 * MSc in Human Performance and Health, *Aristotle University of Thessaloniki*, 2017-2019
 * BSc in Sport Science, *National and Kapodistrian University of Athens*, 2010-2017
 
+## Projects
+## Data Analysis and Statistics
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
