@@ -1,4 +1,4 @@
-# About
+# Panagiotis Chatzinikolaou
 I am a data-driven professional with strong experience in statistical programming, data analysis and visualization. I use tools like R, Python, SQL, and Power BI to uncover insights and drive decision-making. Passionate about continuous learning, I am dedicated to transforming data into actionable solutions.
 
 # Education
