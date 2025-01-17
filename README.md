@@ -2,7 +2,7 @@
 Data Analytics Engineer
 
 ## About
-I am a data-driven PhD graduate with extensive experience in statistical programming, data analysis and visualization. I use tools like R, Python, SQL, Power BI, and Tableau to uncover insights and drive decision-making. Passionate about continuous learning, I am dedicated to transforming data into actionable solutions.
+I am a data-driven PhD graduate with strong experience in statistical programming, data analysis and visualization. I use tools like R, Python, SQL, Power BI, and Tableau to uncover insights and drive decision-making. Passionate about continuous learning, I am dedicated to transforming data into actionable solutions.
 
 ## Education
 * PhD in Quantitative Exercise Physiology, *Aristotle University of Thessaloniki*, 2020-2024
@@ -10,21 +10,17 @@ I am a data-driven PhD graduate with extensive experience in statistical program
 * BSc in Sport Science, *National and Kapodistrian University of Athens*, 2010-2017
 
 ## Projects
-## Data Analysis and Statistics
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+### Healthcare and Bioinformatics Data Analysis
+This portfolio features projects where I used Python and SQL to clean, transform, and analyze datasets in healthcare, bioinformatics, and finance. The projects include analyzing the impact of nutraceuticals on lifespan (DrugAge), cancer research trends, longevity gene variants, Covid testing patterns, and liquor store sales. The code and datasets can be found on the project's GitHub [repository](https://github.com/PanosChatzi/Healthcare_and_Bioinformatics_Analyses).
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Programming languages and libraries: MySQL, Python, pandas, seaborn, plotly
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+### Physiological Data Analysis and Statistics
+This project accompanies our scientific paper, "Erythrocyte glycolytic and redox metabolism affects muscle oxygenation and exercise performance: a randomized double-blind crossover study in humans". It features data preparation, visualization, and statistical analysis scripts. The statistical analyses include custom scripts for linear models, repeated measures ANOVA, post-hoc tests, and effect size calculations. All code and datasets are available on the project's GitHub [repository](https://github.com/PanosChatzi/erythrocyte_study_statistical_analyses).
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![crypto trading bot](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
+Programming languages and libraries: R, tidyverse, afex, lme4, emmeans, multcomp
 
-Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
