@@ -8,7 +8,7 @@ I am a data-driven professional with experience in statistical programming, data
 
 # Projects
 ## PhD Data Analysis and Statistics
-This project accompanies our scientific paper from my PhD: "Erythrocyte glycolytic and redox metabolism affects muscle oxygenation and exercise performance: a randomized double-blind crossover study in humans". It features data preparation, visualization, and statistical analysis scripts. The statistical analyses include custom scripts for linear models, repeated measures ANOVA, post-hoc tests, and effect size calculations. All code and datasets are available on the project's GitHub [repository](https://github.com/PanosChatzi/erythrocyte_study_statistical_analyses).
+This project accompanies our scientific paper from my PhD: "Erythrocyte glycolytic and redox metabolism affects muscle oxygenation and exercise performance: a randomized double-blind crossover study in humans". It features data preparation, visualization, and statistical analysis scripts. The analyses include custom scripts for linear models, repeated measures ANOVA, post-hoc tests, and effect size calculations. All code and datasets are available on the project's GitHub [repository](https://github.com/PanosChatzi/erythrocyte_study_statistical_analyses).
 
 Programming languages and technologies: R, tidyverse, afex, lme4, emmeans, multcomp
 
