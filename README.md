@@ -16,9 +16,9 @@ I am a data professional with experience in data analytics, visualization and st
 
 # Data Analytics
 ## World Happiness Report
-This interactive report allows users to explore how GDP relates to life satisfaction scores across different countries and regions of the world. I used Power Query to clean, transform, and join the World Happines and World Bank (GPD and population) datasets. Next, I created an interactive Shiny app using ggplot2 and ggiraph, highlighting the top 5 happiest countries in the world (Finland, Denmark, Iceland, Sweden, and Netherlands). The interactive app is available [here](https://panoschatz.shinyapps.io/World_Happiness_Report_2025/) and the code and data are available on [GitHub](https://github.com/PanosChatzi/world_happiness_report_2025).
+This interactive report allows users to explore how GDP relates to life satisfaction scores across different countries and regions of the world. I used Power Query to clean, transform, and join the World Happines and World Bank (GPD and population) datasets. Next, I created an interactive Shiny app using ggplot2 and ggiraph, highlighting the top 5 happiest countries in the world (Finland, Denmark, Iceland, Sweden, and Netherlands). The interactive app is available [here](https://panoschatz.shinyapps.io/World_Happiness_Report_2025/). All code and data are available on [GitHub](https://github.com/PanosChatzi/world_happiness_report_2025).
 
-image here
+![static_image](images/happiness_gdp_static.svg)
 
 Programming languages and technologies: R, Power Query, Shiny, ggplot2, ggiraph
 
@@ -45,9 +45,9 @@ Programming languages and technologies: MySQL, Python, SciPy, pandas, seaborn, p
 
 # Data Engineering
 ## Strava Analytics Engineering
-This end-to-end data engineering project automates the extraction, transformation, and loading (ETL) of Strava activity data into Supabase for analytics and visualization. It fetches activities from the Strava API, transforms and cleans the data using Polars, and stores it in a Supabase PostgreSQL database. A FastAPI webhook app, deployed in Render, ensures real-time updates whenever new activities are recorded, and the processed data is connected to Looker Studio for reporting. All code and instructions are available on [GitHub](https://github.com/PanosChatzi/strava-analytics-pipeline).
+This end-to-end data engineering project automates the extraction, transformation, and loading (ETL) of Strava activity data into Supabase for analytics and visualization. It fetches activities from the Strava API, transforms and cleans the data using Polars, and stores it in a PostgreSQL database in Supabase. A FastAPI webhook app, deployed in Render, ensures real-time updates whenever new activities are recorded, and the processed data is connected to Looker Studio for reporting. All code and instructions are available on [GitHub](https://github.com/PanosChatzi/strava-analytics-pipeline).
 
-Programming languages and technologies: PostgreSQL, Python, Polars, Pandas, FastAPI, SQLAlchemy
+Programming languages and technologies: PostgreSQL, Python, Polars, FastAPI, SQLAlchemy
 
 ## Paris Olympics Database
 This project involves creating a relational database in PostgreSQL using the 2024 Paris Olympics dataset within a Docker container in GitHub Codespaces. Data were downloaded from Kaggle as CSV files and imported into a PostgreSQL database. The database includes tables for athletes, medals, countries, events, and teams, enabling the tracking of athlete participation, medal distribution, and country performance. It supports CRUD operations, reporting on top-performing athletes and countries, and optimized queries using views and joins, providing a comprehensive system for analyzing Olympic data. The full code and datasets can be found [here](https://github.com/PanosChatzi/Paris_Olympics_2024_database/tree/main).
