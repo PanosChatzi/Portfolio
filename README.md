@@ -1,5 +1,8 @@
 # Panagiotis Chatzinikolaou
-I am a data-driven professional with experience in statistical programming, data analysis and visualization. I use tools like R, Python, SQL, and Power BI to uncover insights and drive decision-making. Passionate about continuous learning and transforming data into actionable solutions.
+I am a data professional with experience in data analytics, visualization and statistical analyses, using programming and analytical tools like R, Python, SQL, and Power BI. I am passionate about continuous learning and transforming data into actionable insights.
+
+# Experience
+* Business Intelligence Analyst, *Centre of Reporting Excellence, Circana,* 03/2025-present
 
 # Education
 * PhD in Quantitative Exercise Physiology, *Aristotle University of Thessaloniki*, 2020-2024
@@ -7,6 +10,11 @@ I am a data-driven professional with experience in statistical programming, data
 * BSc in Sport Science, *National and Kapodistrian University of Athens*, 2010-2017
 
 # Projects
+- [Data Analytics](#data-analytics)
+- [Data Engineering](#data-engineering)
+- [Web applications](#web-applications)
+
+# Data Analytics
 ## PhD Data Analysis and Statistics
 This project accompanies our scientific paper from my PhD: "Erythrocyte glycolytic and redox metabolism affects muscle oxygenation and exercise performance: a randomized double-blind crossover study in humans". It features data preparation, visualization, and statistical analysis scripts. The analyses include custom scripts for linear models, repeated measures ANOVA, post-hoc tests, and effect size calculations. All code and datasets are available on the project's GitHub [repository](https://github.com/PanosChatzi/erythrocyte_study_statistical_analyses).
 
@@ -33,11 +41,13 @@ This project involves creating a relational database in PostgreSQL using the 202
 
 Programming languages and technologies: PostgreSQL, codespaces, docker, mermaid.js
 
+# Data Engineering
 ## Fitness Data ETL Pipeline  
 This project involved developing an ETL data pipeline to process fitness activity data from Strava and Intervals.icu using Python and SQL. Data was extracted from CSV files, and custom scripts were written to ensure data type quality and perform necessary transformations. Using SQLAlchemy, the data was then loaded into a relational database in SQL Server Management Studio (SSMS). The pipeline automated data ingestion and standardization to streamline storage and analysis. All code can be found [here](https://github.com/PanosChatzi/FitnessDatabase).
 
 Programming languages and technologies: Python, Pandas, SQLAlchemy, pyodbc, T-SQL, SSMS
 
+# Web Applications
 ## Mathematical Modeling of Hemoglobin and ShinyApp Simulation
 This project focused on developing a mathematical model of the hemoglobin oxygen dissociation curve in R. Then, an interactive Shiny web application was created to simulate and visualize the curve under various physiological conditions, as well as to facilitate effective communication of the model. The R model was published in a peer-reviewed scientific journal ([see publication here](https://onlinelibrary.wiley.com/doi/full/10.1111/apha.14081)). The code is available in the GitHub [repository](https://github.com/PanosChatzi/Erythrocyte-Metabolism), and you can explore the Shiny app [here](https://panoschatz.shinyapps.io/Oxyhemoglobin_dissociation_curve/).
 
