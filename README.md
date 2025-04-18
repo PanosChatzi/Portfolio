@@ -13,6 +13,7 @@ I am a data professional with experience in data analytics, visualization and st
 - [Data Analytics and Reporting](#data-analytics)
 - [Data Engineering](#data-engineering)
 - [Web Applications](#web-applications)
+- [Fun Code](#fun-code)
 
 # Data Analytics
 ## World Happiness Report
@@ -73,3 +74,14 @@ This project involved building a responsive weather web application using the Op
 Programming languages and technologies: Python, Flask, requests, waitress, CSS, HTML
 
 ![weather_app](images/weather_app.gif)
+
+## Protein Database App
+Developed an R Shiny App that queries data from the UniProt biological database for human proteins and provides specific information for each protein. The app takes the protein ID’s as input and provides insights based the protein's amino acid sequence. The app is available [here](https://panoschatz.shinyapps.io/Redox_proteoforms_shinyapp/).
+
+Programming languages and technologies: R, tidyverse, Biostrings, httr2, RShiny
+
+# Fun Code
+## Yen to Euro Rate Automation
+In this project, I used GitHub Actions to automate the retrieval of the latest JPY to EUR exchange rate every week, and send an email alert if the exchange rate drops below a threshold. The script queries the JPY to EUR exchange rate from [ExchangeRate-API](https://lnkd.in/g6cifDYN). The code is available on [GitHub](https://github.com/PanosChatzi/yen_rate_automation).
+
+Programming languages and technologies: R, httr, jsonlite, emayili
